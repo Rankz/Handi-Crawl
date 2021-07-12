@@ -51,4 +51,4 @@ You can run it on an [Android](https://docs.expo.io/workflow/android-studio-emul
 | [GitHub](https://github.com/CalimeRon) | [GitHub](https://github.com/Rankz) | [GitHub](https://github.com/vikvikvr) |
 | [LinkedIn](https://www.linkedin.com/in/ron-chamma/)| [LinkedIn](https://www.linkedin.com/in/ian-michaels/)| [LinkedIn](https://www.linkedin.com/in/vikvikvr/) |
 
-If you are interested in this project, let's have a [chat](https://www.linkedin.com/in/vikvikvr/)!🙌
+If you are interested in this project, let's have a [chat](https://www.linkedin.com/in/ian-michaels/)!🙌
